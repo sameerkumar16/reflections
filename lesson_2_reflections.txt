@@ -12,4 +12,20 @@
        repository .You can do by "git add" .It adds the files from
        working directory to staging area and from here you can add
        to git repository by "git commit".
+     
+    How can you use the staging area to make sure you have one commit per 
+    logical change?
+     
+       By adding all the changes made to working directory contributes 
+       to a single logical change .We can add those files to staging 
+       area one by one or all at once .And finally commit at once.
+    
+    What are some situations when branches would be helpful in keeping 
+    your history organized? How would branches help?
+   
+     There are no. of situations in where tha application of branches
+     could be used for example like whe trying some exceptional feature
+     or localizing for different language etc. In short if you don't 
+     want main branch to get disturbed . 
+        
 
