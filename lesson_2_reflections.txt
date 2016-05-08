@@ -1,0 +1,15 @@
+    What happens when you initialize a repository? Why do you need to do it?
+
+       It makes a .git file ,but there will be no commits made and running
+       git status will show the the untracked files and no commit id's since 
+       we haven't made any commits.
+
+    How is the staging area different from the working directory and the 
+    repository? What value do you think it offers?
+       
+       Staging area is intermediate between repository and working 
+       directory.On any file or files you want to add to git 
+       repository .You can do by "git add" .It adds the files from
+       working directory to staging area and from here you can add
+       to git repository by "git commit".
+
