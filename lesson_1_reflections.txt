@@ -1,0 +1,46 @@
+  pwd # print working directory - shows what directory you are in
+  ls  # list the files in this director
+
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    The diff command made spotting the difference made between two versions of
+    the file easy to spot.
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    It will help me spot differences made in different versions very easily .
+    So it would save a lot of time and effort.
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    More power to users and more control on the versions.One should commit when
+    there is some logical change in the files .It should not be automatic.
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    Because Git serves as a version control tool for a code repository ,in which 
+    commits are made to multiple files for a single logical change which is not 
+    the same in Google docs etc.
+
+How can you use the commands git log and git diff to view the history of files?
+
+    I can use it to see the commit history of the projects and see what exact 
+    changes were made to the files and what files were changed .It helps in 
+    debugging and feature adding.
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    Because i would always be sure that in any situation I can revert to 
+    previous version .So it always give me freedom to explore more and not 
+    be wary of the code reusability.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    I would like to setup git on my Android projects,And also need to know how
+    to do that with ease .
