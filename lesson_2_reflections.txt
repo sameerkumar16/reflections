@@ -26,6 +26,11 @@
      There are no. of situations in where tha application of branches
      could be used for example like whe trying some exceptional feature
      or localizing for different language etc. In short if you don't 
-     want main branch to get disturbed . 
+     want main branch to get disturbed .
+
+    How do the diagrams help you visualize the branch structure? 
+    
+      It helps by dnoting the parent of each commit and further 
+      shows us reachability of all the commits.
         
 
