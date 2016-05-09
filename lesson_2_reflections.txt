@@ -41,6 +41,12 @@
       resolve it.The merged branch should show all the commits of both 
       branches.We show it in the diagram to understand the reachability
       of each nodes.
-      branch
+    
+    What are the pros and cons of Git’s automatic merging vs. always doing 
+    merges manually?
+   
+      Pro's and con's depends upon the context ,but manually merges ensures
+      that merging two branches does not create bugs,and be logically intact.
+      
         
 
