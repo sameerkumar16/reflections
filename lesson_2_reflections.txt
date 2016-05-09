@@ -32,5 +32,15 @@
     
       It helps by dnoting the parent of each commit and further 
       shows us reachability of all the commits.
+  
+    What is the result of merging two branches together? Why do we 
+    represent it in the diagram the way we do?
+       
+      It automatically merges the other branch or branches to checked
+      out branch.Sometimes there are conflicts ,you have to manually 
+      resolve it.The merged branch should show all the commits of both 
+      branches.We show it in the diagram to understand the reachability
+      of each nodes.
+      branch
         
 
