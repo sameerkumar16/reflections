@@ -2,3 +2,11 @@
    
     It's important if you want a project which have multiple programmers working on
     their local sysstems .
+
+   Why might you want to always pull changes manually rather than having Git automatically 
+   stay up-to-date with your remote repository?
+   
+    Because we want to be sure of what changes are going to be added on local repository.
+    If it is automatic then we lose some control.
+    
+   
