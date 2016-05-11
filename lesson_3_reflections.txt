@@ -15,5 +15,11 @@
    Fork is a GitHub invention .It is used to directly clone from one repository to others
    on GitHub servers.Clone is the copy of any git repository .If it's on github then I 
    use Fork else Clone.
+
+   What is the benefit of having a copy of the last known state of the remote stored locally?
+  
+   A local copy of remote is benefecial when we want to merge and for conflict resolutions 
+   between different commits .It's a must for a collabrative environment because there 
+   will be multiple conflicts and will only get resolved when we have some reference 
     
    
